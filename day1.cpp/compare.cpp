@@ -1,3 +1,5 @@
+// compare the given 2 numbers
+
 #include <string>
 #include <iostream>
 
@@ -18,4 +20,3 @@ int main() {
     cout << obj.compareNM(5, 10) << endl;  
     return 0;
 }
-  
