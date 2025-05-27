@@ -1,4 +1,5 @@
-/*You are given positive integers n and m.
+/*(Daily leetcode question
+You are given positive integers n and m.
 
 Define two integers as follows:
 
